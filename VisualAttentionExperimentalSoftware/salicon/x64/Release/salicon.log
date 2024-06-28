@@ -1,0 +1,76 @@
+﻿  SocketClient_old.cpp
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(46): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(47): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(54): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(96): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(113): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(126): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(127): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(128): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(141): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(142): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(143): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(156): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(157): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(158): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(172): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(173): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(197): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(198): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(202): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(219): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(220): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(221): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(231): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(232): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(233): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(243): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(244): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(245): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(255): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(256): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(257): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(267): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(268): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\gazecontingent.h(269): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\socketclient_old.cpp(109): warning C4101: “a”: 未引用的局部变量
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\socketclient_old.cpp(200): warning C4101: “a”: 未引用的局部变量
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\socketclient_old.cpp(245): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\salicon\socketclient_old.cpp(246): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  正在生成代码
+  0 of 819 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  salicon.vcxproj -> D:\humanComputerInteraction\Projects\Projects\smartEyeConnector\x64\Release\salicon.exe

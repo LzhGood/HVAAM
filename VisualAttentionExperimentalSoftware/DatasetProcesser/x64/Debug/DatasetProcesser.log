@@ -1,0 +1,28 @@
+﻿  dataprocesser.cpp
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(586): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(722): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(723): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(750): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(770): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(771): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(796): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(956): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(978): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\humancomputerinteraction\projects\projects\smarteyeconnector\datasetprocesser\dataprocesser.cpp(979): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  DatasetProcesser.vcxproj -> D:\humanComputerInteraction\Projects\Projects\smartEyeConnector\x64\Debug\DatasetProcesser.exe

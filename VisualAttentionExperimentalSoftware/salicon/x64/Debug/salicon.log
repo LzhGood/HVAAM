@@ -1,0 +1,42 @@
+﻿  salicon.cpp
+  GazeContingent.cpp
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(5): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(6): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(13): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(71): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(85): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(87): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(100): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(101): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(102): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(115): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(116): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(117): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(131): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(132): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(182): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(183): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(187): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(204): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(205): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(206): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(216): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(217): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(218): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(228): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(229): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(230): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(240): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(241): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(242): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(252): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(253): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+c:\users\user\documents\visual_studio_2017\projects\smarteyeconnector\salicon\gazecontingent.cpp(254): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+  正在生成代码...
+  salicon.vcxproj -> C:\Users\User\Documents\Visual_Studio_2017\Projects\smartEyeConnector\x64\Debug\salicon.exe
+  salicon.vcxproj -> C:\Users\User\Documents\Visual_Studio_2017\Projects\smartEyeConnector\x64\Debug\salicon.pdb (Partial PDB)
